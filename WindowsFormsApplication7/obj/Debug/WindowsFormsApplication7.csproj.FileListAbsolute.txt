@@ -1,0 +1,32 @@
+c:\users\igor\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+c:\users\igor\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Database1.mdf
+c:\users\igor\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Database1_log.ldf
+c:\users\igor\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+c:\users\igor\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+c:\users\igor\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\EntityFramework.dll
+c:\users\igor\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\igor\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\EntityFramework.xml
+c:\users\igor\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\igor\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+c:\users\igor\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+c:\users\igor\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\igor\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+c:\users\igor\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+c:\users\igor\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\igor\documents\visual studio 2015\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\OlehB9\Downloads\йй\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\OlehB9\Downloads\йй\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\OlehB9\Downloads\йй\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\OlehB9\Downloads\йй\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Database1.mdf
+C:\Users\OlehB9\Downloads\йй\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\Database1_log.ldf
+C:\Users\OlehB9\Downloads\йй\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\OlehB9\Downloads\йй\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\OlehB9\Downloads\йй\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\EntityFramework.dll
+C:\Users\OlehB9\Downloads\йй\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\OlehB9\Downloads\йй\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\EntityFramework.xml
+C:\Users\OlehB9\Downloads\йй\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\OlehB9\Downloads\йй\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\OlehB9\Downloads\йй\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\OlehB9\Downloads\йй\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form2.resources
+C:\Users\OlehB9\Downloads\йй\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\OlehB9\Downloads\йй\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
